@@ -3,7 +3,7 @@ import { Card, CardContent } from '@/components/ui/card';
 import Icon from '@/components/ui/icon';
 
 export default function Index() {
-  const telegramUrl = "https://t.me/your_channel"; // Замени на реальную ссылку
+  const telegramUrl = "https://t.me/prosto_sani13";
 
   return (
     <div className="min-h-screen relative overflow-hidden">
